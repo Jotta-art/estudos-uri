@@ -1,3 +1,5 @@
+package minhasRespostas;
+
 import java.util.Scanner;
 
 public class URI1115 {
